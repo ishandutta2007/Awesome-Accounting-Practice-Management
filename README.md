@@ -32,77 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global accounting practice management software market is estimated at approximately **$1.3B to $1.8B** (projected to reach over $3.5B by the early 2030s at an ~8–10% CAGR), forming a high-value niche within the broader $15B+ accounting software sector. The market is **moderately fragmented overall**, characterized by large enterprise incumbents and roll-up acquirers (such as IRIS Software, Xero, Intuit, and Zoho) consolidating top-tier market share, while a competitive long tail of specialized, regional, and cloud-native point solutions compete for independent CPA and bookkeeping firms.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **Karbon**
-
-  **Collaborative practice management** with email-integrated workflows. **Pricing**: **From $79/month** (annual, per user); **no free plan, no free trial** . **Free tier**: None. **Best for**: firms wanting to manage work directly from email with team collaboration—**trade-off**: no trial; premium pricing.
-
-
-
-- **Canopy**
-
-  **All-in-one practice management** for tax and accounting firms. **Pricing**: **Standard $74/seat/month**; **Plus $109/seat/month**; **Premium $149/seat/month**; Enterprise quote-only. **No free plan, no free trial** . **Free tier**: None. **Best for**: firms wanting CRM, workflow, documents, and client portal in one platform—**trade-off**: considered purchase, not impulse signup; no trial.
-
-
-
-- **TaxDome**
-
-  **All-in-one practice management** with CRM, workflows, and client portal. **Pricing**: **Single plan with all features**; annual license from **~$800/year** per user (1-year contract) ; 3-year contract saves ~$10,000/year per user . **Free tier**: None; no free trial . **Best for**: firms wanting comprehensive features without tiered pricing—**trade-off**: annual commitment required; no trial.
-
-
-
-- **Jetpack Workflow**
-
-  **Recurring task and workflow management** for accounting firms. **Pricing**: **$49/seat/month** or **$480/seat/year** (annual discount) ; third-party listing shows **$40–$50/seat/month** . **Free tier**: 14-day free trial . **Best for**: small-to-mid firms wanting dedicated workflow tracking without a bloated suite—**trade-off**: workflow-focused; not full practice management.
-
-
-
-- **Financial Cents**
-
-  **Practice management** with billing built in. **Pricing**: **Starting at $19/month** per Software Advice ; **billing features included on all plans** (Solo, Team, Scale)—only standard processing fees apply (ACH 1% capped at $10; cards 2.9% + $0.30) . **Free tier**: Trial available. **Best for**: US/Canadian firms wanting workflow and billing in one platform—**trade-off**: billing only available in US/Canada.
-
-
-
-- **Ignition (Practice Ignition)**
-
-  **Proposals, engagement letters, and payment collection** for firms. **Pricing**: **Solo from $39/month** (annual, for firms under $150K revenue); **Core $99/month**; **Pro $229/month**; **Pro+ $399/month**; payment processing fees extra . **Free tier**: Trial available. **Best for**: firms wanting to automate proposals and get paid faster—**trade-off**: proposal/payment focused, not full workflow management.
-
-
-
-- **Aero Workflow**
-
-  **Flat-rate workflow management** for bookkeeping and accounting firms. **Pricing**: **Startup $108/month** (annual); **Growth $200/month**; **Scaling $295/month**—**no per-user fees** . **Free tier**: 14-day free trial. **Best for**: firms wanting predictable flat-rate pricing without per-seat costs—**trade-off**: workflow-focused; not full CRM or document management.
-
-
-
-- **Client Hub**
-
-  **Client communication and workflow** platform. **Pricing**: **Starting at $49/month** per Software Advice . **Free tier**: Not specified. **Best for**: firms wanting better client communication and document sharing.
-
-
-
-- **Zoho Practice**
-
-  **Practice management** within Zoho ecosystem. **Pricing**: **Standard $49/month**; **Premium $149/month**; **Free for Zoho Partners**; free trial available . **Free tier**: Yes, for Zoho Partners. **Best for**: Zoho-centric firms wanting client management, tasks, and integration with Zoho Books—**trade-off**: best value within Zoho ecosystem.
-
-
-
-- **Senta**
-
-  **Practice management** for accounting firms. **Pricing**: Quote-only; no public pricing. **Free tier**: Not specified. **Best for**: firms wanting a modern practice management platform.
+| Company | Estimated Revenue / Valuation | Starting Pricing | Free Tier / Free Trial Limits | Description & Key Focus |
+| :--- | :--- | :--- | :--- | :--- |
+| **Zoho Practice** (Zoho Corp) | ~$1.5B Revenue / ~$12.5B Valuation | $49/month (Standard plan) | Free forever for registered Zoho Finance Partners (core practice management, task automation, and document management); 14-day free trial for non-partners with full feature access | Practice management deeply integrated into the Zoho ecosystem (Zoho Books). Best for Zoho-centric firms. |
+| **Senta** (IRIS Software Group) | ~$300M+ Parent Revenue (~$4M ARR at acquisition) / ~$4B Parent Valuation | £32/user/month (or £25.60/user/month billed annually) | 30-day free trial; full feature access with no credit card required upfront; trial data carries over | Practice management and CRM tailored for UK/global accounting and bookkeeping practices with powerful automated workflows. |
+| **Ignition** (Practice Ignition) | ~$30M ARR / ~$330M Valuation ($90M+ raised) | $39/month (Solo plan, annual billing for firms under $150K revenue) | 14-day free trial; full feature access (proposals, engagement letters, payment collection) with no credit card required | Client engagement, proposal-to-payment automation, and recurring billing for professional services. |
+| **Canopy** | ~$35M–$40M ARR / ~$245M+ Total Funding | $74/seat/month (Standard tier, billed annually) | 14-day sales-assisted trial; full access to core modules (CRM, portal, document management) with no credit card required | All-in-one practice management, tax resolution, document management, and client portal for accounting firms. |
+| **Karbon** | ~$25M–$35M ARR / ~$99M+ Total Funding | $59/user/month (Team plan, billed annually) or $79/user/month billed monthly | 14-day free trial; access to triage email, task templates, and collaboration tools via guided demo/sign-up | Collaborative practice management with deep email triage integration and standardized team workflows. |
+| **TaxDome** | ~$20M–$30M ARR (Bootstrapped, 10,000+ firms) | $1,500/year (covers first 150 active client accounts and up to 20 firm team members) | No permanent free tier or standard trial for core platform; offers a 14-day free trial specifically for optional AI & API add-on; live personalized demo available | All-in-one platform covering CRM, client portal, automated pipelines, e-signatures, and firm billing. |
+| **Financial Cents** | ~$3M–$5M ARR / Privately Held | $19/month (Solo plan, billed annually at $228/year) | 14-day free trial with full platform access; features an indefinite free tier strictly for the Month-End Close tool (limited to 1 client forever) | Practice management and workflow tracking with integrated client invoicing and automated client requests. |
+| **Jetpack Workflow** | ~$850K ARR / ~$2.1M Total Seed Funding | $40/user/month (Starter plan, billed annually at $480/user/year) or $49/user/month billed monthly | 14-day free trial; full feature access to workflow templates and recurring jobs with no credit card required upfront | Recurring job, deadline, and task management built specifically for accounting and bookkeeping firms. |
+| **Client Hub** | ~$950K–$1M ARR / TinySeed & CPA.com Backed | $49/user/month (Solopreneur plan, billed annually) or $59/user/month (Practice Manager, annual) | 14-day free trial; unrestricted access to client portal, automated client tasks, and magic workflow tools without credit card | Client communication hub, portal, and workflow automation focused on eliminating client communication bottlenecks. |
+| **Aero Workflow** | ~$300K–$500K ARR / Bootstrapped | $108/month flat fee (Startup plan, billed annually, up to 5 users included with no per-seat fees) | 30-day free trial; full feature access including unlimited tasks, pre-built templates, and QuickBooks sync without credit card | Flat-rate workflow and procedural knowledge-base software eliminating per-seat pricing for bookkeeping teams. |
 
 
 
