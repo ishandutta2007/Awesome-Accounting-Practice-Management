@@ -57,61 +57,61 @@ The global **Accounting Practice Management Software (APMS)** market is estimate
 
 Explore verified open-source repositories suitable for self-hosted firm management, billing pipelines, CRM workflows, and bookkeeping infrastructure. Repositories are sorted descending by GitHub stargazers.
 
-- ### 1. [Twenty](https://github.com/twentyhq/twenty) [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
+- ### 1. [Twenty](https://github.com/twentyhq/twenty) [![GitHub_Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
   - 🛠️ **Tech Stack**: TypeScript, NestJS, React, GraphQL, PostgreSQL
   - 📜 **License**: AGPL-3.0
   - 💡 **Best For**: Modern open-source CRM, client pipeline management, custom firm data models, and client relation tracking.
   - 🔍 **Overview**: Modern, extensible alternative to proprietary CRMs. Highly customizable data models make it ideal for modeling accounting client accounts, engagements, onboarding pipelines, and team assignments.
 
-- ### 2. [Odoo Community](https://github.com/odoo/odoo) [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)
+- ### 2. [Odoo Community](https://github.com/odoo/odoo) [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)
   - 🛠️ **Tech Stack**: Python, JavaScript, PostgreSQL
   - 📜 **License**: LGPL-3.0
   - 💡 **Best For**: Enterprise practice management, multi-entity client billing, integrated timesheets, and accounting suites.
   - 🔍 **Overview**: Broad open-source ERP with extensive modularity. Combining Odoo's Project, Timesheet, Invoicing, and CRM modules creates a comprehensive, self-hosted accounting practice management system.
 
-- ### 3. [ERPNext](https://github.com/frappe/erpnext) [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)
+- ### 3. [ERPNext](https://github.com/frappe/erpnext) [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)
   - 🛠️ **Tech Stack**: Python, Frappe Framework, MariaDB, Redis
   - 📜 **License**: GPL-3.0
   - 💡 **Best For**: Full-suite practice operations, automated recurring billing, project milestones, and double-entry general ledger.
   - 🔍 **Overview**: The leading complete open-source ERP system on GitHub. Includes comprehensive project task boards, billable timesheets, client portal access, double-entry financial accounting, and payroll out of the box.
 
-- ### 4. [Documenso](https://github.com/documenso/documenso) [![GitHub stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)
+- ### 4. [Documenso](https://github.com/documenso/documenso) [![GitHub_Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)
   - 🛠️ **Tech Stack**: TypeScript, Next.js, Prisma, PostgreSQL
   - 📜 **License**: AGPL-3.0
   - 💡 **Best For**: Self-hosted engagement letters, proposal signing, 8879 / tax authorization signatures, and document execution.
   - 🔍 **Overview**: The open-source document signing infrastructure. Allows CPA firms to self-host legally binding electronic signature workflows and seamlessly integrate signature requests into client portals via API.
 
-- ### 5. [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)
+- ### 5. [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) [![GitHub_Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)
   - 🛠️ **Tech Stack**: PHP (Laravel), Flutter, Vue.js, MySQL
   - 📜 **License**: Elastic License 2.0 (Self-Hostable)
   - 💡 **Best For**: Client billing, payment collection (Stripe/PayPal/ACH), recurring retainer retainers, and white-labeled client billing portals.
   - 🔍 **Overview**: The standard for self-hosted client billing and quoting. Features automated recurring invoices, payment gateway integrations, task time-tracking, and a client portal where clients review invoices and make direct payments.
 
-- ### 6. [Akaunting](https://github.com/akaunting/akaunting) [![GitHub stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white)](https://github.com/akaunting/akaunting/stargazers)
+- ### 6. [Akaunting](https://github.com/akaunting/akaunting) [![GitHub_Stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white)](https://github.com/akaunting/akaunting/stargazers)
   - 🛠️ **Tech Stack**: PHP (Laravel), Vue.js, MySQL
   - 📜 **License**: GPL-3.0
   - 💡 **Best For**: Cloud/self-hosted financial management, client billing, expense tracking, and modular firm extensions.
   - 🔍 **Overview**: Modern accounting software built on Laravel. Features a modular app store architecture allowing firms to add CRM, project management, customer portals, and multi-currency billing extensions.
 
-- ### 7. [Dolibarr ERP CRM](https://github.com/Dolibarr/dolibarr) [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)
+- ### 7. [Dolibarr ERP CRM](https://github.com/Dolibarr/dolibarr) [![GitHub_Stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)
   - 🛠️ **Tech Stack**: PHP, MySQL / MariaDB, PostgreSQL
   - 📜 **License**: GPL-3.0
   - 💡 **Best For**: Lightweight modular practice management, customer billing, contracts, and proposal management.
   - 🔍 **Overview**: Highly accessible, low-overhead ERP and CRM tailored for small firms and independent consultants. Enables tracking customer proposals, commercial contracts, timesheets, and invoicing without heavy server requirements.
 
-- ### 8. [Kimai](https://github.com/kimai/kimai) [![GitHub stars](https://img.shields.io/github/stars/kimai/kimai?style=social&color=white)](https://github.com/kimai/kimai/stargazers)
+- ### 8. [Kimai](https://github.com/kimai/kimai) [![GitHub_Stars](https://img.shields.io/github/stars/kimai/kimai?style=social&color=white)](https://github.com/kimai/kimai/stargazers)
   - 🛠️ **Tech Stack**: PHP (Symfony), Twig, Bootstrap, MySQL
   - 📜 **License**: AGPL-3.0
   - 💡 **Best For**: Billable hours tracking, CPA staff time tracking, client project budgeting, and rate card billing.
   - 🔍 **Overview**: Professional open-source time-tracking software. Supports regional hourly rates, project budget calculations, team timesheet approvals, and invoice-ready export data for client billing.
 
-- ### 9. [GnuCash](https://github.com/Gnucash/gnucash) [![GitHub stars](https://img.shields.io/github/stars/Gnucash/gnucash?style=social&color=white)](https://github.com/Gnucash/gnucash/stargazers)
+- ### 9. [GnuCash](https://github.com/Gnucash/gnucash) [![GitHub_Stars](https://img.shields.io/github/stars/Gnucash/gnucash?style=social&color=white)](https://github.com/Gnucash/gnucash/stargazers)
   - 🛠️ **Tech Stack**: C, C++, Scheme / Guile, GTK
   - 📜 **License**: GPL-2.0+
   - 💡 **Best For**: Desktop double-entry bookkeeping, small business accounting ledger, and offline financial records.
   - 🔍 **Overview**: Established cross-platform accounting software. Best for desktop general ledger bookkeeping and personal or sole-practitioner financial management, though lacking team workflow or web client portals.
 
-- ### 10. [ITFlow](https://github.com/itflow-org/itflow) [![GitHub stars](https://img.shields.io/github/stars/itflow-org/itflow?style=social&color=white)](https://github.com/itflow-org/itflow/stargazers)
+- ### 10. [ITFlow](https://github.com/itflow-org/itflow) [![GitHub_Stars](https://img.shields.io/github/stars/itflow-org/itflow?style=social&color=white)](https://github.com/itflow-org/itflow/stargazers)
   - 🛠️ **Tech Stack**: PHP, MariaDB, Bootstrap
   - 📜 **License**: GPL-3.0
   - 💡 **Best For**: Client ticket tracking, document repositories, client asset credentials, and service firm ticketing.
@@ -136,7 +136,7 @@ Contributions are welcome from practice managers, developers, and CPAs!
 
 1. 🍴 **Fork** the repository.
 2. 🌿 Create a feature branch: `git checkout -b feature/new-platform-entry`.
-3. ✍️ Add or update entries in `README.md` following the existing format (include license, star badge, tech stack, and clear use cases).
+3. ✍️ Add or update entries in `README.md` following the existing format (include license, Stars_Badge, tech stack, and clear use cases).
 4. 🚀 Commit your changes: `git commit -m "feat: add NewPlatform practice management tool"`.
 5. 📬 Open a **Pull Request** detailing your additions.
 
