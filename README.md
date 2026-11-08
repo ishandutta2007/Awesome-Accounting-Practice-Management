@@ -1,50 +1,44 @@
-# Awesome-Accounting-Practice-Management
+<div align="center">
 
-# Awesome-Accounting-Practice-Management
+![Awesome Accounting Practice Management Banner](./assets/banner.svg)
 
-**Top Accounting Practice Management (Opensource) 🌟 Star if you like it! 🌟**
+# 💼 Awesome Accounting Practice Management
 
+[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-bluevioltt?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Curated List](https://img.shields.io/badge/Curated%20List-Accounting%20Tech-blue?style=flat-square&logo=git)](https://github.com/ishandutta2007/Awesome-Accounting-Practice-Management)
+[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%99%A5-brightgreen?style=flat-square)](https://github.com/ishandutta2007/Awesome-Accounting-Practice-Management)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
+**Curated directory of SaaS suites, workflow automation systems, client portals, and self-hosted open-source software for CPAs, bookkeepers, and modern accounting firms.**
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+🌟 *Star this repository to follow new software releases and industry updates!* 🌟
 
-*Focused on Workflow Automation, Client Portals, Proposal-to-Payment & Self-Hosted Firm Management*
+</div>
 
-**Last updated: November 2026**
+---
 
+## 📑 Table of Contents
 
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Commercial Platforms](#-saas--hosted-commercial-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Comparative Tech Stacks & Architecture](#-comparative-tech-stacks--architecture)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#-disclaimer)
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Accounting Practice Management**. These tools enable accounting and tax firms to manage client workflows, automate recurring tasks, send proposals and engagement letters, and collect payments—from fully managed platforms with AI and client portals to open-source alternatives that give firms control over their practice data.
+---
 
+## 🌐 Sector Overview & Market Dynamics
 
+The global **Accounting Practice Management Software (APMS)** market is estimated at approximately **$1.3B to $1.8B** (projected to reach over $3.5B by the early 2030s at an ~8–10% CAGR), forming a high-value niche within the broader $15B+ accounting software sector. The market is **moderately fragmented overall**, characterized by large enterprise incumbents and roll-up acquirers (such as IRIS Software, Xero, Intuit, and Zoho) consolidating top-tier market share, while a competitive long tail of specialized, regional, and cloud-native point solutions compete for independent CPA and bookkeeping firms.
 
-**Examples** include Karbon, Canopy, TaxDome, Jetpack Workflow, Financial Cents, Ignition (Practice Ignition), Aero Workflow, Client Hub, Zoho Practice, and Senta (the category leaders in commercial space).
+---
 
+## 🏢 SaaS & Hosted Commercial Platforms
 
-
-**Open-source emphasis**: This section is expanded with every relevant project for self-hosted practice management, invoicing, and open firm infrastructure. **Critical note**: True open-source accounting practice management is nearly nonexistent—**Invoice Ninja** provides open-source invoicing with a usable free tier , but it is not a full practice management platform. **GnuCash** is free and open source but is desktop bookkeeping, not client workflow management . No open-source project matches Karbon's email-integrated workflow or TaxDome's all-in-one client portal.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global accounting practice management software market is estimated at approximately **$1.3B to $1.8B** (projected to reach over $3.5B by the early 2030s at an ~8–10% CAGR), forming a high-value niche within the broader $15B+ accounting software sector. The market is **moderately fragmented overall**, characterized by large enterprise incumbents and roll-up acquirers (such as IRIS Software, Xero, Intuit, and Zoho) consolidating top-tier market share, while a competitive long tail of specialized, regional, and cloud-native point solutions compete for independent CPA and bookkeeping firms.
-
-## SaaS/Hosted Platforms
-
-| Company | Estimated Revenue / Valuation | Starting Pricing | Free Tier / Free Trial Limits | Description & Key Focus |
+| 🏢 Company | 💰 Estimated Revenue / Valuation | 🏷️ Starting Pricing | 🎁 Free Tier / Free Trial Limits | 📋 Description & Key Focus |
 | :--- | :--- | :--- | :--- | :--- |
 | **Zoho Practice** (Zoho Corp) | ~$1.5B Revenue / ~$12.5B Valuation | $49/month (Standard plan) | Free forever for registered Zoho Finance Partners (core practice management, task automation, and document management); 14-day free trial for non-partners with full feature access | Practice management deeply integrated into the Zoho ecosystem (Zoho Books). Best for Zoho-centric firms. |
 | **Senta** (IRIS Software Group) | ~$300M+ Parent Revenue (~$4M ARR at acquisition) / ~$4B Parent Valuation | £32/user/month (or £25.60/user/month billed annually) | 30-day free trial; full feature access with no credit card required upfront; trial data carries over | Practice management and CRM tailored for UK/global accounting and bookkeeping practices with powerful automated workflows. |
@@ -57,84 +51,119 @@ The global accounting practice management software market is estimated at approx
 | **Client Hub** | ~$950K–$1M ARR / TinySeed & CPA.com Backed | $49/user/month (Solopreneur plan, billed annually) or $59/user/month (Practice Manager, annual) | 14-day free trial; unrestricted access to client portal, automated client tasks, and magic workflow tools without credit card | Client communication hub, portal, and workflow automation focused on eliminating client communication bottlenecks. |
 | **Aero Workflow** | ~$300K–$500K ARR / Bootstrapped | $108/month flat fee (Startup plan, billed annually, up to 5 users included with no per-seat fees) | 30-day free trial; full feature access including unlimited tasks, pre-built templates, and QuickBooks sync without credit card | Flat-rate workflow and procedural knowledge-base software eliminating per-seat pricing for bookkeeping teams. |
 
+---
 
+## 💻 Open-Source GitHub Projects
 
-## Open-Source GitHub Projects
+Explore verified open-source repositories suitable for self-hosted firm management, billing pipelines, CRM workflows, and bookkeeping infrastructure. Repositories are sorted descending by GitHub stargazers.
 
+- ### 1. [Twenty](https://github.com/twentyhq/twenty) [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
+  - 🛠️ **Tech Stack**: TypeScript, NestJS, React, GraphQL, PostgreSQL
+  - 📜 **License**: AGPL-3.0
+  - 💡 **Best For**: Modern open-source CRM, client pipeline management, custom firm data models, and client relation tracking.
+  - 🔍 **Overview**: Modern, extensible alternative to proprietary CRMs. Highly customizable data models make it ideal for modeling accounting client accounts, engagements, onboarding pipelines, and team assignments.
 
+- ### 2. [Odoo Community](https://github.com/odoo/odoo) [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)
+  - 🛠️ **Tech Stack**: Python, JavaScript, PostgreSQL
+  - 📜 **License**: LGPL-3.0
+  - 💡 **Best For**: Enterprise practice management, multi-entity client billing, integrated timesheets, and accounting suites.
+  - 🔍 **Overview**: Broad open-source ERP with extensive modularity. Combining Odoo's Project, Timesheet, Invoicing, and CRM modules creates a comprehensive, self-hosted accounting practice management system.
 
-- **Invoice Ninja**
+- ### 3. [ERPNext](https://github.com/frappe/erpnext) [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)
+  - 🛠️ **Tech Stack**: Python, Frappe Framework, MariaDB, Redis
+  - 📜 **License**: GPL-3.0
+  - 💡 **Best For**: Full-suite practice operations, automated recurring billing, project milestones, and double-entry general ledger.
+  - 🔍 **Overview**: The leading complete open-source ERP system on GitHub. Includes comprehensive project task boards, billable timesheets, client portal access, double-entry financial accounting, and payroll out of the box.
 
-  **Open-source invoicing for freelancers and small agencies** (open source) — **the most viable open-source option for client billing and payment collection**, with a genuinely usable free tier . **Features**: **Invoicing and quotes**; **Recurring invoices**; **Client portal**; **Payment gateway integrations** (Stripe, PayPal, etc.); **Expense tracking**; **Task and project management**; **Self-hosted or cloud** . **Pricing**: **Free $0/month** (self-hosted or cloud); **Ninja Pro $14/month**; **Enterprise $18/month** . **Free tier**: Yes, free plan available. **Tech stack**: PHP/Laravel, MySQL. **Deploy**: Self-hosted (Docker) or Invoice Ninja Cloud. **Trade-off**: **Invoicing-focused, not practice management**—no client workflow automation, document management, or email integration like Karbon. **Best for**: solo practitioners and small firms wanting open-source invoicing with payment collection—not full practice management.
+- ### 4. [Documenso](https://github.com/documenso/documenso) [![GitHub stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)
+  - 🛠️ **Tech Stack**: TypeScript, Next.js, Prisma, PostgreSQL
+  - 📜 **License**: AGPL-3.0
+  - 💡 **Best For**: Self-hosted engagement letters, proposal signing, 8879 / tax authorization signatures, and document execution.
+  - 🔍 **Overview**: The open-source document signing infrastructure. Allows CPA firms to self-host legally binding electronic signature workflows and seamlessly integrate signature requests into client portals via API.
 
+- ### 5. [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)
+  - 🛠️ **Tech Stack**: PHP (Laravel), Flutter, Vue.js, MySQL
+  - 📜 **License**: Elastic License 2.0 (Self-Hostable)
+  - 💡 **Best For**: Client billing, payment collection (Stripe/PayPal/ACH), recurring retainer retainers, and white-labeled client billing portals.
+  - 🔍 **Overview**: The standard for self-hosted client billing and quoting. Features automated recurring invoices, payment gateway integrations, task time-tracking, and a client portal where clients review invoices and make direct payments.
 
+- ### 6. [Akaunting](https://github.com/akaunting/akaunting) [![GitHub stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white)](https://github.com/akaunting/akaunting/stargazers)
+  - 🛠️ **Tech Stack**: PHP (Laravel), Vue.js, MySQL
+  - 📜 **License**: GPL-3.0
+  - 💡 **Best For**: Cloud/self-hosted financial management, client billing, expense tracking, and modular firm extensions.
+  - 🔍 **Overview**: Modern accounting software built on Laravel. Features a modular app store architecture allowing firms to add CRM, project management, customer portals, and multi-currency billing extensions.
 
-- **GnuCash**
+- ### 7. [Dolibarr ERP CRM](https://github.com/Dolibarr/dolibarr) [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)
+  - 🛠️ **Tech Stack**: PHP, MySQL / MariaDB, PostgreSQL
+  - 📜 **License**: GPL-3.0
+  - 💡 **Best For**: Lightweight modular practice management, customer billing, contracts, and proposal management.
+  - 🔍 **Overview**: Highly accessible, low-overhead ERP and CRM tailored for small firms and independent consultants. Enables tracking customer proposals, commercial contracts, timesheets, and invoicing without heavy server requirements.
 
-  **Free open-source accounting software** (GPL) — **the most established open-source bookkeeping tool**, but **desktop-only and not practice management** . **Features**: Double-entry bookkeeping; invoicing; expense tracking; reporting. **Tech stack**: C. **Deploy**: Desktop (Windows, macOS, Linux). **Trade-off**: **Not a practice management tool**—no client portal, workflow, or collaboration features. **Best for**: individual bookkeeping, not firm operations.
+- ### 8. [Kimai](https://github.com/kimai/kimai) [![GitHub stars](https://img.shields.io/github/stars/kimai/kimai?style=social&color=white)](https://github.com/kimai/kimai/stargazers)
+  - 🛠️ **Tech Stack**: PHP (Symfony), Twig, Bootstrap, MySQL
+  - 📜 **License**: AGPL-3.0
+  - 💡 **Best For**: Billable hours tracking, CPA staff time tracking, client project budgeting, and rate card billing.
+  - 🔍 **Overview**: Professional open-source time-tracking software. Supports regional hourly rates, project budget calculations, team timesheet approvals, and invoice-ready export data for client billing.
 
+- ### 9. [GnuCash](https://github.com/Gnucash/gnucash) [![GitHub stars](https://img.shields.io/github/stars/Gnucash/gnucash?style=social&color=white)](https://github.com/Gnucash/gnucash/stargazers)
+  - 🛠️ **Tech Stack**: C, C++, Scheme / Guile, GTK
+  - 📜 **License**: GPL-2.0+
+  - 💡 **Best For**: Desktop double-entry bookkeeping, small business accounting ledger, and offline financial records.
+  - 🔍 **Overview**: Established cross-platform accounting software. Best for desktop general ledger bookkeeping and personal or sole-practitioner financial management, though lacking team workflow or web client portals.
 
-
-### Additional Strong Open-Source Options
-
-
-
-- **No mature open-source accounting practice management platform exists.** Karbon, Canopy, TaxDome, Jetpack Workflow, Financial Cents, Ignition, Aero Workflow, Client Hub, Zoho Practice, and Senta are all proprietary. **Invoice Ninja** provides open-source invoicing but not workflow, CRM, or client portals. For full practice management, commercial platforms are required.
-
-
-
-**Frameworks for building custom systems**: **Invoice Ninja** provides the billing layer. For workflow, CRM, and client portals, no open-source alternative exists—commercial platforms or custom development are required.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, license (for open-source), and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Practice management platforms handling client data must comply with data protection regulations (GDPR, CCPA, etc.) and implement appropriate access controls.
-
-- **The "full practice management" vs. "workflow-only" vs. "proposal/payment" vs. "invoicing" distinction is critical.** **Karbon, Canopy, TaxDome, Financial Cents, Client Hub, Zoho Practice, and Senta** are **full practice management**—they combine CRM, workflow, documents, and client portals. **Jetpack Workflow and Aero Workflow** are **workflow-only**—they excel at task management but lack CRM and portals. **Ignition** is **proposal/payment**—it automates engagement letters and collections. **Invoice Ninja** is **invoicing**—it creates and sends invoices but not firm workflow. **Choose based on whether you need full firm operations, workflow depth, proposal automation, or billing.**
-
-- **TaxDome and Canopy have no free trial.** Both are considered purchases requiring annual commitment—TaxDome from ~$800/year per user, Canopy from $74/seat/month . **Do not expect self-serve evaluation.**
-
-- **Karbon has no free trial and no free plan**—from $79/month annual . **For firms wanting email-integrated workflow, it is the benchmark, but evaluation requires a demo.**
-
-- **Jetpack Workflow's $49/seat/month** is the most transparent dedicated workflow pricing, with a 14-day trial . **Aero Workflow's flat-rate $108–$295/month** eliminates per-user costs—better for firms with many users .
-
-- **Financial Cents includes billing on all plans**—only processing fees apply, with ACH capped at $10 and cards at 2.9% + $0.30 . **For US/Canadian firms wanting workflow plus billing, it is the most accessible entry point at $19/month.**
-
-- **Ignition's Solo plan at $39/month** is designed for solo practitioners under $150K revenue—the most accessible proposal automation entry point .
-
-- **Invoice Ninja is the only functional open-source option**—free plan, payment gateways, and client portal . **The trade-off**: invoicing only; no practice management features.
-
-- Self-hosted open-source solutions require proper infrastructure (PHP for Invoice Ninja, C for GnuCash), security hardening, and ongoing maintenance. **Client financial data is sensitive**—ensure your deployment meets your organization's compliance requirements before managing live client data.
-
-
+- ### 10. [ITFlow](https://github.com/itflow-org/itflow) [![GitHub stars](https://img.shields.io/github/stars/itflow-org/itflow?style=social&color=white)](https://github.com/itflow-org/itflow/stargazers)
+  - 🛠️ **Tech Stack**: PHP, MariaDB, Bootstrap
+  - 📜 **License**: GPL-3.0
+  - 💡 **Best For**: Client ticket tracking, document repositories, client asset credentials, and service firm ticketing.
+  - 🔍 **Overview**: Lightweight open-source IT service management, ticketing, client documentation, and billing tool designed for professional services firms.
 
 ---
 
+## 🛠️ Comparative Tech Stacks & Architecture
 
+| Platform Category | Leading Commercial Examples | Leading Open-Source Alternatives | Architectural Focus |
+| :--- | :--- | :--- | :--- |
+| **All-in-One Practice Suites** | TaxDome, Canopy, Karbon | **ERPNext**, **Odoo Community** | Complete practice lifecycle: CRM, client portal, workpapers, tasks, and financials. |
+| **Workflow & Task Tracking** | Jetpack Workflow, Aero Workflow | **Kimai** + **Twenty CRM** | Fast task dispatch, recurring compliance checklists, time tracking, and productivity. |
+| **Proposals, E-Sign & Billing** | Ignition, Client Hub | **Documenso** + **Invoice Ninja** | Proposal engagement letters, digital signatures, recurring retainer payments, and ACH/card processing. |
+| **Core General Ledger & Books** | Zoho Practice, QuickBooks Online | **Akaunting**, **GnuCash** | Double-entry journal entries, chart of accounts, bank reconciliations, and tax reporting. |
 
-**Made for accounting firm owners, practice managers, and organizations building transparent practice management solutions.**
+---
 
-Let's make Accounting Practice Management more open, data-driven, and workflow-friendly.
+## 🤝 How to Contribute
+
+Contributions are welcome from practice managers, developers, and CPAs!
+
+1. 🍴 **Fork** the repository.
+2. 🌿 Create a feature branch: `git checkout -b feature/new-platform-entry`.
+3. ✍️ Add or update entries in `README.md` following the existing format (include license, star badge, tech stack, and clear use cases).
+4. 🚀 Commit your changes: `git commit -m "feat: add NewPlatform practice management tool"`.
+5. 📬 Open a **Pull Request** detailing your additions.
+
+⭐ Don't forget to **star the repository** if you find this directory valuable!
+
+---
+
+## 💖 Support
+
+If you found this curated list helpful for evaluating firm software, streamlining workflow automation, or finding open-source infrastructure:
+
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork and share** with colleagues, practice managers, and accounting communities.
+- ☕ **Sponsor & Buy a Coffee**: Support ongoing maintenance and research via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Thank you for supporting open-source software and transparent technology evaluation for accounting professionals! 🙏
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Accounting-Practice-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Accounting-Practice-Management&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This repository is a **community-curated directory** provided for educational and evaluation purposes; it does not constitute an endorsement.
+- Practice management software handling confidential taxpayer or financial data must adhere to strict regulatory compliance standards (such as **FTC Safeguards Rule**, **IRS Publication 4557**, **SOC 2**, **GDPR**, and **CCPA**).
+- When self-hosting open-source platforms, ensure proper database encryption at rest, secure TLS transport, multi-factor authentication (MFA), role-based access control (RBAC), and automated off-site backups.
